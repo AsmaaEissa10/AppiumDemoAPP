@@ -1,0 +1,9 @@
+# Default ignored files
+/shelf/
+/target/
+/ExtentReports.html
+/.idea/
+/.idea/
+/generate_allure_report.bat/
+/extent-reports/
+/allure-results/
